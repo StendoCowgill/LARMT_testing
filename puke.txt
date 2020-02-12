@@ -28,7 +28,7 @@ FeatureName : Internet-Explorer-Optional-amd64
 State       : Enabled
 
 FeatureName : NetFx3
-State       : Enabled
+State       : disabled
 
 FeatureName : IIS-WebServerRole
 State       : Disabled
