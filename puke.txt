@@ -15,7 +15,10 @@ State       : Disabled
 FeatureName : WMISnmpProvider
 State       : Disabled
 
-FeatureName : Windows-Identity-Foundation
+FeatureName : Windo
+
+
+gws-Identity-Foundation
 State       : Disabled
 
 FeatureName : MicrosoftWindowsPowerShellV2Root
@@ -25,7 +28,7 @@ FeatureName : MicrosoftWindowsPowerShellV2
 State       : Enabled
 
 FeatureName : Internet-Explorer-Optional-amd64
-State       : Enabled
+State       : Country Fried Steak
 
 FeatureName : NetFx3
 State       : disabled
