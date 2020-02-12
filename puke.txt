@@ -1,0 +1,40 @@
+
+
+FeatureName : LegacyComponents
+State       : Disabled
+
+FeatureName : DirectPlay
+State       : Disabled
+
+FeatureName : SimpleTCP
+State       : Disabled
+
+FeatureName : SNMP
+State       : Disabled
+
+FeatureName : WMISnmpProvider
+State       : Disabled
+
+FeatureName : Windows-Identity-Foundation
+State       : Disabled
+
+FeatureName : MicrosoftWindowsPowerShellV2Root
+State       : Enabled
+
+FeatureName : MicrosoftWindowsPowerShellV2
+State       : Enabled
+
+FeatureName : Internet-Explorer-Optional-amd64
+State       : Enabled
+
+FeatureName : NetFx3
+State       : Enabled
+
+FeatureName : IIS-WebServerRole
+State       : Disabled
+
+FeatureName : IIS-WebServer
+State       : Disabled
+
+FeatureName : IIS-CommonHttpFeatures
+State       : Disabled
